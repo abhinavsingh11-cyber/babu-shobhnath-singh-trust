@@ -1,0 +1,24 @@
+{
+  "name": "Babu Shobhnath Singh Memorial Trust",
+  "short_name": "BSSMT",
+  "description": "Family-owned trust for Literature, Education, and Cultural initiatives",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAFA",
+  "theme_color": "#D97706",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
