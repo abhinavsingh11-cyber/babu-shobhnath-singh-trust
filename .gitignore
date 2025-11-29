@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Cache
+.cache/
+*.cache
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Replit specific
+.replit
+replit.nix
+.upm/
+.config/
+.local/
+
+# Database
+*.db
+*.sqlite
+
+# Uploads (keep in object storage instead)
+attached_assets/uploads/
+
+# Package lock (npm will regenerate)
+package-lock.json
